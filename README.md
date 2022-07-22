@@ -1,2 +1,2 @@
-# django_crud
+# Django_CRUD operations
 This Project is to demonstrate Create, Read, Update, Delete (CRUD) operations in djnago that follows the model–template–views architectural pattern.
