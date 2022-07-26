@@ -92,6 +92,8 @@ This project demonstrate crud operations via three pages
 
 To get a local copy up and running follow these steps.
 
+Requirements
+* virtual environment with dependencies from requirements.txt
 * must have a mysql database with following configuration
 ```sh
 DATABASES = {
@@ -231,13 +233,13 @@ django-admin startapp employee_register
 ```
 As we have created an app of custom nature we have to include this in settings.py of employee_crud.
 Inside employee_crud > settings.py we have
-
+```sh
 INSTALLED_APPS = [
-.............
-]
-
+                  .............
+                ]
+```
 add  'employee_register', along already listed apps by default and then it looks like.
-
+```sh
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -247,6 +249,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'employee_register',
 ]
+```
 
 Once app is included we also have to define our database inside settings.py for connecting it to MySQL database, which can be done like this.
 ```
@@ -605,10 +608,15 @@ Project Link: [https://github.com/DhruvaSharma/django_crud.git](https://github.c
 
 <!-- ACKNOWLEDGMENTS -->
 ## References
-For detailed video on this project creation refer to video mentioned below from where this project if referenced too.
+For detailed video refer to video mentioned below.
 
 * [CodAffection](https://www.youtube.com/watch?v=N6jzspc2kds)
 
+For more information about Django.
+
+* https://www.djangoproject.com/
+* https://data-flair.training/blogs/django-tutorial/
+* https://www.geeksforgeeks.org/django-tutorial/?ref=lbp
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
