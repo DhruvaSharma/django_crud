@@ -1,0 +1,51 @@
+├── CHANGELOG.md
+├── employee_crud
+│   ├── db.sqlite3
+│   ├── employee_crud
+│   │   ├── asgi.py
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-310.pyc
+│   │   │   ├── settings.cpython-310.pyc
+│   │   │   ├── urls.cpython-310.pyc
+│   │   │   └── wsgi.cpython-310.pyc
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   └── wsgi.py
+│   ├── employee_register
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── forms.py
+│   │   ├── __init__.py
+│   │   ├── migrations
+│   │   │   ├── 0001_initial.py
+│   │   │   ├── __init__.py
+│   │   │   └── __pycache__
+│   │   │       ├── 0001_initial.cpython-310.pyc
+│   │   │       └── __init__.cpython-310.pyc
+│   │   ├── models.py
+│   │   ├── __pycache__
+│   │   │   ├── admin.cpython-310.pyc
+│   │   │   ├── apps.cpython-310.pyc
+│   │   │   ├── forms.cpython-310.pyc
+│   │   │   ├── __init__.cpython-310.pyc
+│   │   │   ├── models.cpython-310.pyc
+│   │   │   ├── urls.cpython-310.pyc
+│   │   │   └── views.cpython-310.pyc
+│   │   ├── templates
+│   │   │   └── employee_register
+│   │   │       ├── base.html
+│   │   │       ├── employee_form.html
+│   │   │       └── employee_list.html
+│   │   ├── tests.py
+│   │   ├── urls.py
+│   │   └── views.py
+│   └── manage.py
+├── employee_venv
+├── images
+│   ├── logo.png
+│   └── screenshot.png
+├── LICENSE
+├── Project_Structure.txt
+├── README.md
+└── requirements.txt
