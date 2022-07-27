@@ -24,11 +24,11 @@
     <a href="https://github.com/DhruvaSharma/django_crud.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://invador0007.pythonanywhere.com/employee">View Demo</a>
+    <a href="https://invador0007.pythonanywhere.com/employee" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/DhruvaSharma/django_crud/issues">Report Bug</a>
+    <a href="https://github.com/DhruvaSharma/django_crud/issues" target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/DhruvaSharma/django_crud/issues">Request Feature</a>
+    <a href="https://github.com/DhruvaSharma/django_crud/issues" target="_blank">Request Feature</a>
   </p>
   <p>
   If demo is not working please raise an issue as pythonanywhere.com turn off free server every 90 days.
