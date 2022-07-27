@@ -8,6 +8,7 @@ itsdangerous==2.1.2
 Jinja2==3.1.2
 MarkupSafe==2.1.1
 mysqlclient==2.1.1
+mysql-connector-python==8.0.30
 PyMySQL==1.0.2
 sqlparse==0.4.2
 Werkzeug==2.1.2
