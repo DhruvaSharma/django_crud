@@ -32,6 +32,7 @@
   </p>
   <p>
   If demo is not working please raise an issue as pythonanywhere.com turn off free server every 90 days.
+  This demo will be disabled on Thursday 27 October 2022.
   </p>
 </div>
 
