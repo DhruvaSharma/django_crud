@@ -30,6 +30,9 @@
     ·
     <a href="https://github.com/DhruvaSharma/django_crud/issues">Request Feature</a>
   </p>
+  <p>
+  If demo is not working please raise an issue as pythonanywhere.com turn off free server every 90 days.
+  </p>
 </div>
 
 
