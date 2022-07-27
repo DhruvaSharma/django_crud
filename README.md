@@ -24,6 +24,8 @@
     <a href="https://github.com/DhruvaSharma/django_crud.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    <a href="https://invador0007.pythonanywhere.com/employee">View Demo</a>
+    ·
     <a href="https://github.com/DhruvaSharma/django_crud/issues">Report Bug</a>
     ·
     <a href="https://github.com/DhruvaSharma/django_crud/issues">Request Feature</a>
